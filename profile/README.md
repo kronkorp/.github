@@ -15,7 +15,7 @@ For now, it includes:
 - [Kronknet](https://github.com/kronkorp/kronknet) (a network library in C)
 - [Kronkworld](https://github.com/kronkorp/kronkworld) (a header-only ECS in C++)
 - [Kronkflow](https://github.com/kronkorp/kronkflow) (a task scheduler in C)
-- [Kronkargs]((https://github.com/kronkorp/kronkargs)) (an argument parser in C)
+- [Kronkargs](https://github.com/kronkorp/kronkargs) (an argument parser in C)
 - [Kronklab](https://github.com/kronkorp/kronklab) (an unit test framework in C)
 
 ## Members
