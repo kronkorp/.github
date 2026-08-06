@@ -19,4 +19,5 @@ For now, it includes:
 - [Kronklab](https://github.com/kronkorp/kronklab) (an unit test framework in C)
 
 ## Members
-- Gauthier Malfilatre
+- [Gauthier Malfilatre](https://github.com/GauthierMalfilatre)
+- [Ethan Bertin--Prévot](https://github.com/YknotTYD)
