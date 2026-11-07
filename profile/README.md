@@ -16,6 +16,7 @@ For now, it includes:
 - [Kronknet](https://github.com/kronkorp/kronknet) (a network library in C)
 - [Kronkworld](https://github.com/kronkorp/kronkworld) (a header-only ECS in C++)
 - [Kronkflow](https://github.com/kronkorp/kronkflow) (a task scheduler in C)
+- [Kronk3D](https://github.com/kronkorp/kronk3D) (a custom 3D renderer with OpenGL using rasterization)
 - [Kronklab](https://github.com/kronkorp/kronklab) (an unit test framework in C)
 
 ## Members
